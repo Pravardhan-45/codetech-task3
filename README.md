@@ -35,6 +35,8 @@ The project builds a Convolutional Neural Network (CNN) model using TensorFlow t
 - **Test Accuracy:** ~99.02%
 - Accuracy and loss visualized using Matplotlib
 
+ <img width="1907" height="626" alt="image" src="https://github.com/user-attachments/assets/441b4ecd-c1f1-4a36-9ec5-7cb389113e1e" />
+
 ---
 
 ## 🔧 Requirements
